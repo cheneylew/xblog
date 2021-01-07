@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="434e8795-e6f1-456d-a64e-b6be9bf3c29c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/helper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/admin/article.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/admin/common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/admin/index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/admin/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/db_init.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/admin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/admin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/admin/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/admin/regist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,9 +35,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue-admin-design/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="helper.go" pinned="false" current-in-tab="false">
@@ -139,6 +138,7 @@
         <option value="$PROJECT_DIR$/com/map.go" />
         <option value="$PROJECT_DIR$/controllers/admin/article.go" />
         <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -177,11 +177,6 @@
             <path>
               <item name="xblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="xblog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xblog" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-admin-design" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,13 +255,6 @@
     <proxy>https://goproxy.cn</proxy>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue-admin-design/src/views/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue-admin-design/src/api/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -602,6 +590,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vue-admin-design/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
